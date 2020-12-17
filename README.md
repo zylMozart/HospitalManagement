@@ -26,37 +26,37 @@
 
 先从高层次开始画数据流图，在高层次的数据流图上是否列出了所有给定给定数据源点/终点是一目了然的，因此它是很有价值的通信工具。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\BasicSystemModel.svg)
+![](.\img\BasicSystemModel.svg)
 
 #### 1.2.3 0层数据流图
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\0L_DFD.svg)
+![](.\img\0L_DFD.svg)
 
 #### 1.2.4 1层数据流图
 
 ##### 1.2.4.1 标准处理
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\1L_DFD1.svg)
+![](.\img\1L_DFD1.svg)
 
 ##### 1.2.4.2 病情处理
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\1L_DFD2.svg)
+![](.\img\1L_DFD2.svg)
 
 ##### 1.2.4.3 病情诊断
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\1L_DFD3.svg)
+![](.\img\1L_DFD3.svg)
 
 ##### 1.2.4.4 报警响应
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\1L_DFD4.svg)
+![](.\img\1L_DFD4.svg)
 
 ##### 1.2.4.5 处理报警
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\1L_DFD5.svg)
+![](.\img\1L_DFD5.svg)
 
 ##### 1.2.4.6 查看病情
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\1L_DFD6.svg)
+![](.\img\1L_DFD6.svg)
 
 ### 1.3 数据字典
 
@@ -137,46 +137,46 @@
 
 #### 2.3.1 全局E-R图
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\0ER.svg)
+![](.\img\ER\0ER.svg)
 
 #### 2.3.2 局部E-R图
 
 分解全局E-R图后得到以下局部E-R图
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_article_make_standard.svg)
+![](.\img\ER\ER_article_make_standard.svg)
 
 <center>2.3.2.1 根据文献指定报警标准</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_docter_update_log.svg)
+![](.\img\ER\ER_docter_update_log.svg)
 
 <center>2.3.2.2 医生更新查看病情日志</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_docter_update_report.svg)
+![](.\img\ER\ER_docter_update_report.svg)
 
 <center>2.3.2.3 医生更新查看病情报告</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_doctor_cure_patient.svg)
+![](.\img\ER\ER_doctor_cure_patient.svg)
 
 <center>2.3.2.4 医生诊断病人</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_nurse_cope_warning.svg)
+![](.\img\ER\ER_nurse_cope_warning.svg)
 
 <center>2.3.2.5 护士看护病人</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_nurse_view_log.svg)
+![](.\img\ER\ER_nurse_view_log.svg)
 
 <center>2.3.2.6 护士查看病情日志</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_nurse_view_report.svg)
+![](.\img\ER\ER_nurse_view_report.svg)
 
 <center>2.3.2.7 护士查看病情报告</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_patient_view_log.svg)
+![](.\img\ER\ER_patient_view_log.svg)
 
 <center>2.3.2.8 病情查看病情日志</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_patient_view_report.svg)
+![](.\img\ER\ER_patient_view_report.svg)
 
 <center>2.3.2.9 病人查看病情报告</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_patient_yield_warning.svg)
+![](.\img\ER\ER_patient_yield_warning.svg)
 
 <center>2.3.2.10 病人产生报警</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_standard_decide_warning.svg)
+![](.\img\ER\ER_standard_decide_warning.svg)
 
 <center>2.3.2.11 报警依据报警标准</center>
-![](C:\Users\70382\Desktop\2020 Go Ahead\软件工程\img\ER\ER_nurse_solve_warning.svg)
+![](.\img\ER\ER_nurse_solve_warning.svg)
 
 <center>2.3.2.12 护士响应报警</center>
 ### 2.4 系统功能建模
