@@ -1731,35 +1731,35 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 首页设计简介大方，标题和内容介绍均用醒目的字体表示，同时右上角的登录按钮可以实现点击后登录的效果。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\1.png)
+![](.\img\UI\1.png)
 
 ##### 5.4.2【患者/护士/医生/管理员】登录模块实现
 
 点击登录按钮进入到登录界面，登录表单中有三种内容：用户类型、用户ID和用户密码，下方的提交按钮可以提交登录表单，重置按钮可以重置用户的输入。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\2.1.png)
+![](.\img\UI\2.1.png)
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\2.2.png)
+![](.\img\UI\2.2.png)
 
 用户登录成功之后会产生登录成功提示消息，同时跳转到主页。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\2.3.png)
+![](.\img\UI\2.3.png)
 
 用户登录成功之后会产生登录失败提示消息，同时跳转到主页。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\2.4.png)
+![](.\img\UI\2.4.png)
 
 ##### 5.4.3【患者/护士/医生/管理员】注销模块实现
 
 鼠标放置在头像上会显示下拉菜单，点击注销，用户退出登录。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\3.png)
+![](.\img\UI\3.png)
 
 ##### 5.4.4【患者/护士/医生/管理员】个人中心模块实现
 
 鼠标放置在头像上会显示下拉菜单，点击个人中心，进入个人中心模块，其中的内容用户自身不能修改。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\4.png)
+![](.\img\UI\4.png)
 
 ##### 5.4.5【患者】查看病情日志模块实现
 
@@ -1767,139 +1767,139 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 此处，患者可以查看自己的近期诊断和报警时间。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\5.1.png)
+![](.\img\UI\5.1.png)
 
 患者可以查看自己近期的心跳记录。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\5.2.png)
+![](.\img\UI\5.2.png)
 
 患者可以查看自己近期的体温记录。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\5.3.png)
+![](.\img\UI\5.3.png)
 
 患者可以查看自己近期的血压记录。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\5.4.png)
+![](.\img\UI\5.4.png)
 
 ##### 5.4.6【患者】查看病情报告模块实现
 
 患者可以在左上角选择病情报告模块，点击之后可以查看自己的病情报告
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\6.1.png)
+![](.\img\UI\6.1.png)
 
 患者点击病情报告详细信息之后，可以显示该报告的详细信息
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\6.2.png)
+![](.\img\UI\6.2.png)
 
 ##### 5.4.7【护士】查看病情日志模块实现
 
 护士登录之后可以查看患者的病情日志，需要注意的是，护士可以查询所有用户的病情日志，在左边的搜索框中可以搜索用户姓名以快速定位到某一个用户。其中子模块的细节功能在**5.4.5【患者】查看病情日志模块实现**中已经介绍过了，不再赘述。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\7.1.png)
+![](.\img\UI\7.1.png)
 
 ##### 5.4.8【护士】查看病情报告模块实现
 
 护士登录之后可以查看患者的病情报告，需要注意的是，护士可以查询所有用户的病情报告，在左边的搜索框中可以搜索用户姓名以快速定位到某一个用户。其中子模块的细节功能在**5.4.6【患者】查看病情报告模块实现**中已经介绍过了，不再赘述。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\8.1.png)
+![](.\img\UI\8.1.png)
 
 ##### 5.4.9【护士】病人指标查看模块实现
 
 在菜单栏中点击患者指标功能可以查看病人的生理指标。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\9.1.png)
+![](.\img\UI\9.1.png)
 
 同时将鼠标放在心跳图像上可以显示当时具体时间的心跳数值。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\9.2.png)
+![](.\img\UI\9.2.png)
 
 同时将鼠标放在心跳图像上可以显示当时具体时间的血压数值。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\9.3.png)
+![](.\img\UI\9.3.png)
 
 ##### 5.4.10【护士】病人报警响应模块实现
 
 护士可以响应病人的报警，当病人某项生理指标超出数据库中定义的标准时系统会向护士发出警报信息。此处，患者“西施”的心跳为0，心跳骤停，所以产生了警报。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\10.1.png)
+![](.\img\UI\10.1.png)
 
 当护士处理完用户的报警之后，用户生理水平恢复正常，不再产生报警信息。此处患者“西施”的心跳恢复了正常，不再产生报警信息。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\10.2.png)
+![](.\img\UI\10.2.png)
 
 ##### 5.4.11【医生】查看病情日志模块实现
 
 医生登录之后可以查看患者的病情日志，需要注意的是，护士可以查询所有用户的病情日志，在左边的搜索框中可以搜索用户姓名以快速定位到某一个用户。其中子模块的细节功能在**5.4.5【患者】查看病情日志模块实现**中已经介绍过了，不再赘述。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\11.1.png)
+![](.\img\UI\11.1.png)
 
 ##### 5.4.12【医生】查看病情报告模块实现
 
 医生登录之后可以查看患者的病情报告，需要注意的是，护士可以查询所有用户的病情报告，在左边的搜索框中可以搜索用户姓名以快速定位到某一个用户。其中子模块的细节功能在**5.4.6【患者】查看病情报告模块实现**中已经介绍过了，不再赘述。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\12.png)
+![](.\img\UI\12.png)
 
 ##### 5.4.13【医生】病人指标查看模块实现
 
 医生登录之后可以查看所有病人的生理指标。其中子模块的细节功能在**5.4.9【护士】病人指标查看模块实现**中已经介绍过了，不再赘述。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\13.png)
+![](.\img\UI\13.png)
 
 ##### 5.4.14【医生】报警标准制定模块实现
 
 医生登录之后，点击菜单栏中的报警标准可以查看并制定所有的报警标准。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\14.1.png)
+![](.\img\UI\14.1.png)
 
 点击修改/添加按钮可以进入修改/添加报警标准的界面。
 
-![14.2](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\14.2.png)
+![14.2](.\img\UI\14.2.png)
 
 ##### 5.4.15【医生】病情诊断模块实现
 
 医生登录后，可以在菜单栏中选择病情诊断模块添加用户的诊断，在医生输入
 
-![15.1](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\15.1.png)
+![15.1](.\img\UI\15.1.png)
 
 当医生为不存在的患者添加诊断表后会提示提交失败信息。
 
-![15.2](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\15.2.png)
+![15.2](.\img\UI\15.2.png)
 
 当医生为存在患者提交诊断信息后会提示提交成功信息。
 
-![15.3](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\15.3.png)
+![15.3](.\img\UI\15.3.png)
 
-![15.4](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\15.4.png)
+![15.4](.\img\UI\15.4.png)
 
 ##### 5.4.16【管理员】查看病情日志模块实现
 
 管理员登录之后可以查看患者的病情报告，需要注意的是，护士可以查询所有用户的病情报告，在左边的搜索框中可以搜索用户姓名以快速定位到某一个用户。其中子模块的细节功能在**5.4.6【患者】查看病情报告模块实现**中已经介绍过了，不再赘述。
 
-![16](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\16.png)
+![16](.\img\UI\16.png)
 
 ##### 5.4.17【管理员】查看病情报告模块实现
 
 管理员登录之后可以查看患者的病情报告，需要注意的是，护士可以查询所有用户的病情报告，在左边的搜索框中可以搜索用户姓名以快速定位到某一个用户。其中子模块的细节功能在**5.4.6【患者】查看病情报告模块实现**中已经介绍过了，不再赘述。
 
-![](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\17.png)
+![](.\img\UI\17.png)
 
 ##### 5.4.18【管理员】病人指标查看模块实现
 
 管理员登录之后可以查看所有病人的生理指标。其中子模块的细节功能在**5.4.9【护士】病人指标查看模块实现**中已经介绍过了，不再赘述。
 
-![18](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\18.png)
+![18](.\img\UI\18.png)
 
 ##### 5.4.19【管理员】报警标准制定模块实现
 
 医生登录之后，点击菜单栏中的报警标准可以查看并制定所有的报警标准。其中子模块的细节功能在**5.4.14【医生】报警标准制定模块实现**中已经介绍过了，不再赘述。
 
-![19](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\19.png)
+![19](.\img\UI\19.png)
 
 ##### 5.4.20【管理员】病情诊断模块实现
 
 管理员登录之后，点击菜单栏中的报警标准可以诊断患者病情。其中子模块的细节功能在**5.4.15【医生】病情诊断模块实现**中已经介绍过了，不再赘述。
 
-![20](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\20.png)
+![20](.\img\UI\20.png)
 
 ##### 5.4.21【管理员】用户管理模块实现
 
@@ -1907,23 +1907,23 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 管理员可以查看所有患者的信息。
 
-![21.1](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\21.1.png)
+![21.1](.\img\UI\21.1.png)
 
 管理员可以查看所有护士的信息。
 
-![21.2](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\21.2.png)
+![21.2](.\img\UI\21.2.png)
 
 管理员可以查看所有医生的信息。
 
-![21.3](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\21.3.png)
+![21.3](.\img\UI\21.3.png)
 
 管理员可以查看信息详情。
 
-![21.4](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\21.4.png)
+![21.4](.\img\UI\21.4.png)
 
 管理员可以修改具体信息。
 
-![21.5](C:\Users\70382\Desktop\2020 Go Ahead\SoftwareEngineering\img\UI\21.5.png)
+![21.5](.\img\UI\21.5.png)
 
 #### 5.5测试
 
