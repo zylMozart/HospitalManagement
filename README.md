@@ -1483,9 +1483,9 @@ End
 
 ##### 5.1.1 开发平台：
 
-JetBrains，Navicat Preminum12，Visual，Typora
+**JetBrains，Navicat Preminum12，Visual，Typora**
 
-JetBrains
+**JetBrains**
 
 JetBrains是一家捷克的软件开发公司，该公司位于捷克的布拉格，并在俄罗斯的圣彼得堡及美国马萨诸塞州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。JetBrains成立于2000年，是一家私人持股的公司，该公司的合伙创办人有：Sergey Dmitriev、Eugene Belyaev及Valentin Kipiatkov。
 
@@ -1494,25 +1494,25 @@ PhpStorm以其零配置的Visual Debugger闻名，它可让您深入了解应用
 
  利用现代JavaScript生态系统的全部功能-WebStorm可以满足您的要求！享受智能代码完成，动态错误检测，JavaScript，TypeScript，样式表语言和所有最受欢迎的框架的强大导航和重构功能。  在IDE中轻松调试客户端和Node.js应用程序–在源代码中放置断点，浏览调用堆栈和变量，设置监视并使用交互式控制台。 无缝工具集成，充分利用短绒，构建工具，测试运行器，REST客户端以及其他与IDE紧密集成的工具。但是，每当需要Terminal时，它也可以作为IDE工具窗口使用。单元测试，使用WebStorm中的Karma，Mocha，Protractor和Jest运行和调试测试。立即在编辑器中或在方便的树状视图中立即查看测试状态，您可以从中快速跳转到测试。与VCS集成，使用简单的统一UI来与Git，GitHub，Mercurial和其他VCS一起使用。使用IDE中的可视化差异/合并工具提交文件，查看更改并解决冲突。
 
-Navicat Preminum12
+**Navicat Preminum12**
 
 Navicat Premium是一个数据库开发工具，可让您从单个应用程序同时连接到MySQL，MariaDB，MongoDB，SQL Server，Oracle，PostgreSQL和SQLite数据库。与Amazon RDS，Amazon Aurora，Amazon Redshift，Microsoft Azure，Oracle Cloud，Google Cloud和MongoDB Atlas等云数据库兼容。您可以快速轻松地构建，管理和维护数据库。PremiumSoft成立于1999年，已经为Windows，macOS，Linux和iOS开发了各种应用程序。我们富有才华的软件工程师团队以生产高质量软件而闻名，我们在提供世界一流的客户支持方面享有盛誉。Navicat是全球超过300万数据库用户的选择。我们的产品遍布7大洲和138个国家/地区的160,000多名注册客户。
 
-Visual
+ **Visual Studio Code**
 
  Visual Studio Code是一个轻量级但功能强大的源代码编辑器，可在您的桌面上运行，并且可用于Windows，macOS和Linux。它具有对JavaScript，TypeScript和Node.js的内置支持，并具有丰富的其他语言（例如C ++，C＃，Java，Python，PHP，Go）和运行时（例如.NET和Unity）扩展的生态系统。 Visual Studio Code将源代码编辑器的简单性与强大的开发人员工具（如IntelliSense代码完成和调试）结合在一起。它是一个让您摆脱困境的编辑器。令人愉悦的无摩擦的“编辑－构建－调试”周期意味着更少的时间摆弄您的环境，并有更多的时间执行您的想法。本质上，Visual Studio Code具有闪电般的快速源代码编辑器，非常适合日常使用。凭借对数百种语言的支持，VS Code可以帮助您通过语法高亮显示，括号匹配，自动缩进，选择框，摘要等即时提高生产力。直观的键盘快捷键，轻松的自定义功能和社区提供的键盘快捷键映射使您可以轻松地浏览代码。对于认真的编码，您通常会受益于对代码有更多了解的工具，而不仅仅是文本块。Visual Studio Code包括对IntelliSense代码完成，丰富的语义代码理解和导航以及代码重构的内置支持。而当编码变得困难时，就很难调试了。调试通常是开发人员在更精简的编码体验中最会错过的一项功能，因此我们实现了它。Visual Studio Code包含一个交互式调试器，因此您可以单步执行源代码，检查变量，查看调用堆栈并在控制台中执行命令。VS Code还与构建和脚本工具集成，以执行常见任务，从而使日常工作流程更快。VS Code支持Git，因此您可以使用源代码管理而无需离开编辑器，包括查看挂起的更改差异。
 
 在结构上，Visual Studio Code结合了Web，本地和特定于语言的最佳技术。VS Code使用Electron，将JavaScript和Node.js等网络技术与本机应用程序的速度和灵活性相结合。VS Code使用相同的基于工业强度的HTML编辑器的更新更快的版本，该编辑器为“ Monaco”云编辑器，Internet Explorer的F12工具和其他项目提供了支持。此外，VS Code使用工具服务体系结构，使其能够与支持Visual Studio的许多相同技术集成，包括Roslyn for .NET，TypeScript，Visual Studio调试引擎等。Visual Studio Code包含一个公共可扩展性模型，开发人员可以使用该模型来构建和使用扩展，并丰富自定义其编辑-构建-调试体验。
 
-Typora
+**Typora**
 
 Typora给您既是读者又是作家的无缝体验。它删除了预览窗口，模式切换器，降价源代码的语法符号以及所有其他不必要的干扰。相反，它提供了真正的实时预览功能，可帮助您专注于内容本身。
 
 ##### 5.1.2开发环境：
 
-vue，laravel，mysql
+**vue，laravel，mysql**
 
-vue
+**vue**
 
 Vue（发音为/vjuː/，类似于view）是用于构建用户界面的渐进框架。与其他整体框架不同，Vue从头开始设计以逐渐采用。核心库仅集中在视图层，并且易于拾取并与其他库或现有项目集成。另一方面，当与现代工具和支持库结合使用时，Vue也完全有能力为复杂的单页应用程序提供支持。
 
@@ -1522,13 +1522,13 @@ React 和 Vue 有许多相似之处，它们都有：使用 Virtual DOM；提供
 
 React Native 能使你用相同的组件模型编写有本地渲染能力的 APP (iOS 和 Android)。能同时跨多平台开发，对开发者是非常棒的。相应地，Vue 和 Weex会进行官方合作，Weex 是阿里巴巴发起的跨平台用户界面开发框架，同时也正在 Apache 基金会进行项目孵化，Weex 允许你使用 Vue 语法开发不仅仅可以运行在浏览器端，还能被用于开发 iOS 和 Android 上的原生应用的组件。在现在，Weex 还在积极发展，成熟度也不能和 React Native 相抗衡。但是，Weex 的发展是由世界上最大的电子商务企业的需求在驱动，Vue 团队也会和 Weex 团队积极合作确保为开发者带来良好的开发体验。
 
-laravel
+**laravel**
 
 Laravel是一个具有表达力，优雅语法的Web应用程序框架。Web框架提供了创建应用程序的结构和起点，使您可以专注于创建令人惊奇的细节，而我们却不遗余力。Laravel努力提供出色的开发人员体验，同时提供强大的功能，例如彻底的依赖注入，富有表现力的数据库抽象层，队列和计划的作业，单元和集成测试等。无论是PHP或Web框架的新手还是有多年的经验，Laravel都是一个可以与您一起成长的框架。我们将帮助您迈出成为Web开发人员的第一步，或者在您将专业知识提高到新水平时为您提供帮助。我们等不及要看您的构建。
 
  构建Web应用程序时，可以使用多种工具和框架。但是，我们认为Laravel是构建现代全栈Web应用程序的最佳选择。Laravel具有难以置信的可扩展性。得益于PHP的伸缩友好特性以及Laravel对Redis等快速，分布式缓存系统的内置支持，使用Laravel进行水平伸缩非常容易。实际上，Laravel应用程序已轻松扩展，每月可处理数亿个请求。  Laravel结合了PHP生态系统中最好的软件包，以提供最强大且对开发人员友好的框架。此外，来自世界各地的数千名才华横溢的开发人员为该框架做出了贡献。谁知道，也许您甚至会成为Laravel的贡献者。 
 
-mysql
+**mysql**
 
 MySQL是开源 关系数据库管理系统（RDBMS）。它的名称是联合创始人Michael Widenius和“ SQL ”（结构化查询语言的缩写）的名称“ My”的组合。一个关系型数据库将数据组织到一个或多个数据表中，其中数据类型可能彼此相关；这些关系有助于构建数据。SQL是程序员用来在关系数据库中创建，修改和提取数据以及控制用户对数据库访问的一种语言。除了关系数据库和SQL，类似于MySQL的RDBMS还可与操作系统一起在计算机的存储系统中实现关系数据库，管理用户，允许网络访问并促进测试数据库完整性和创建备份。MySQL是根据GNU通用公共许可证条款提供的免费和开源软件，并且还可以根据各种专有许可证使用。MySQL由瑞典MySQL AB拥有和赞助
 
